@@ -4,6 +4,8 @@
 
 - Importing modules
 
+- The `python3 -i filename` command
+
 - Object Oriented Programming
 
 - Benefits and Principles of OOP Design
@@ -24,7 +26,7 @@
 
 - Stretch Topics: Class attributes and methods
 
-## Exercise
+## Exercises
 
 1. Humans initialize with a `first_name` and `last_name`.
 
