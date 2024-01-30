@@ -1,2 +1,3 @@
 class Human:
+
     pass
